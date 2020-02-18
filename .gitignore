@@ -5,3 +5,8 @@
 *.d
 
 README.md
+grblUpload.ino
+grbl/examples/grblUpload/grblUpload.componentinfo.xml
+grbl/examples/grblUpload/grblUpload.cppproj
+grbl/examples/grblUpload/.vs/grblUpload/v14/.atsuo
+grbl/examples/grblUpload/__vm/.grblUpload.vsarduino.h
